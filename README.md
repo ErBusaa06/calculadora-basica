@@ -1,39 +1,44 @@
 🧮 Calculadora Básica
-Proyecto sencillo de una calculadora básica desarrollada con HTML, CSS y JavaScript.
-Permite realizar operaciones matemáticas simples mediante una interfaz interactiva.
+Calculadora básica desarrollada con HTML, CSS y JavaScript, que permite realizar operaciones matemáticas simples mediante una interfaz clara e interactiva.
 
-📌 Contenido del proyecto
-index.html – Estructura principal de la calculadora
+🔗 Proyecto en vivo:  
+https://erbusaa06.github.io/calculadora-basica/
 
-styles.css – Estilos y diseño visual
-
-script.js – Lógica de funcionamiento
-
-Calculator.png – Icono de la pestaña del navegador
-
+📁 Organización del proyecto
+Código
+index.html      → Página principal de la calculadora
+styles.css      → Estilos de la interfaz
+script.js       → Lógica de funcionamiento
+Calculator.png  → Icono de la pestaña
+README.md       → Información del proyecto
 ⚙️ Funcionalidades
 Suma
+
 Resta
+
 Multiplicación
+
 División
 
-Botón para limpiar la pantalla
-Evaluación de operaciones con el botón "="
+Botón C para limpiar la pantalla
 
-▶️ Cómo usarlo
+Botón = para calcular el resultado
+
+▶️ Cómo usar
 Abre el archivo index.html en tu navegador.
 
-Usa los botones para escribir la operación.
+Introduce la operación usando los botones.
 
 Pulsa = para obtener el resultado.
 
-Pulsa C para limpiar la pantalla.
+Pulsa C para borrar la pantalla.
 
 🛠️ Tecnologías utilizadas
-
 HTML
+
 CSS
+
 JavaScript
 
-📄 Autor
-Proyecto creado por Miguel Ángel Busatori Blanco como práctica de desarrollo web.
+👨‍💻 Autor
+Proyecto creado por Miguel Ángel Busatori Blanco.
